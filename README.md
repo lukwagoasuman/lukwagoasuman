@@ -50,6 +50,7 @@ I'm interested in:
 ## 📫 How to Reach Me
 
 - **GitHub**: [@lukwagoasuman](https://github.com/lukwagoasuman)
+- **LinkedIn**: [Asuman Lukwago](https://www.linkedin.com/in/asumanlukwago)
 - **Medium**: [@lukewago](https://medium.com/@lukewago)
 - Feel free to explore my repositories and open discussions!
 
