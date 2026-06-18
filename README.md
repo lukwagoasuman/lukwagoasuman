@@ -4,12 +4,18 @@ Welcome to my GitHub profile. I'm a passionate developer and cybersecurity enthu
 
 ## 🚀 About Me
 
-I'm interested in:
+I'm a developer and cybersecurity specialist with expertise in:
 - **Full-stack web development** with JavaScript/Node.js
-- **Cybersecurity** and vulnerability research
+- **Cybersecurity** and malware analysis
+- **Network Security** and system safeguarding
 - **CTF (Capture The Flag)** challenges and ethical hacking
 - **DevOps** and infrastructure
 - **.NET** and C# development
+- Graphics, writing, and creative technologies
+
+## 🎓 Certifications & Training
+
+- 🏆 **Introduction to Cybersecurity Bootcamp** - CyberTalents (March-April 2024)
 
 ## 💻 Skills & Languages
 
@@ -43,16 +49,20 @@ I'm interested in:
 ## 🎯 What I'm Focused On
 
 - Building secure, scalable web applications
+- Cybersecurity research and malware analysis
+- Network security and system hardening
 - Exploring vulnerability research and ethical hacking
 - Contributing to open-source projects
 - Continuous learning through CTF challenges and hands-on labs
+- Sharing security knowledge and best practices on Medium
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- **GitHub**: [@lukwagoasuman](https://github.com/lukwagoasuman)
-- **LinkedIn**: [Asuman Lukwago](https://www.linkedin.com/in/asumanlukwago)
-- **Medium**: [@lukewago](https://medium.com/@lukewago)
-- Feel free to explore my repositories and open discussions!
+- **GitHub**: [@lukwagoasuman](https://github.com/lukwagoasuman) - Check out my projects and repositories
+- **LinkedIn**: [Asuman Lukwago](https://www.linkedin.com/in/asumanlukwago) - Professional experience and background
+- **Medium**: [@lukewago](https://medium.com/@lukewago) - Articles on cybersecurity, development, and security insights
+
+Feel free to explore my repositories, read my articles, and open discussions!
 
 ---
 
